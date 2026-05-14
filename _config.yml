@@ -10,8 +10,8 @@
 locale                   : "en-US"
 site_theme               : "Biodiversity Conservation and Monitoring"
 title                    : "Govindhaswamy Umapathy"
-title_separator          : "-"
-name                     : &name "Govindhaswamy Umapathy"
+title_separator          : "Dr"
+name                     :"Govindhaswamy Umapathy"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Umapathy"
-  pronouns         : # example: "he/his"  
+  pronouns         : "he/his"  
   bio              : "Chief Scientist at CSIR-CCMB, Laboratory for the Conservation of Endangered Species (LaCONES)"
   location         : "Hyderabad"
   employer         : "CSIR-CCMB"
@@ -41,7 +41,7 @@ author:
   orcid            : "https://orcid.org/0000-0003-4086-7445"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
