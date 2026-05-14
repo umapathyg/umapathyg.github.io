@@ -13,7 +13,7 @@ title                    : "Dr. Govindhaswamy Umapathy"
 title_separator          : "|"
 name                     : "Dr. Govindhaswamy Umapathy"
 description              : &description "Wildlife endocrinology, conservation genomics, and One Health science"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://umapathyg.github.io ub.io/"
+url                      : https://umapathyg.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
