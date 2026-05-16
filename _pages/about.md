@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a **Chief Scientist** at the [CSIR–Centre for Cellular and Molecular Biology (CSIR-CCMB)](https://ccmb.res.in/), Hyderabad, where I work at the **Laboratory for the Conservation of Endangered Species (LaCONES)**. LaCONES was established jointly by the Central Zoo Authority of India and the Department of Biotechnology as a national facility dedicated to the conservation of India's threatened wildlife.
+I am a **Chief Scientist** at the [CSIR–Centre for Cellular and Molecular Biology (CSIR-CCMB)](https://ccmb.res.in/), Hyderabad, where I work at the **Laboratory for the Conservation of Endangered Species (LaCONES)**. 
 
 ## Research interests
 
