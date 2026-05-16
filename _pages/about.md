@@ -22,7 +22,7 @@ My research bridges molecular biology, endocrinology, and field ecology to suppo
 
 ## Brief profile
 
-I have authored more than 100 SCI-indexed publications, including contributions in *Nature*, *Science*, and *Cell*. I am a Fellow of the National Academy of Sciences, India (**FNASc**), the Telangana Academy of Sciences (**FTASc**, elected 2018), and the Royal Entomological Society (**FRE**). I also serve in advisory roles for the National Tiger Conservation Authority (NTCA), the Ministry of Environment, Forest and Climate Change (MoEF&CC), and the Central Zoo Authority (CZA).
+I have authored more than 100 SCI-indexed publications, including contributions in *Nature*, *Science*, and *Cell*. I am a Fellow of the National Academy of Sciences, India (**FNASc**), the Telangana Academy of Sciences (**FTASc**, elected 2018), and the Royal Entomological Society (**FRE**). 
 
 I am the inventor on a US patent for a paper-based lateral-flow device for non-invasive pregnancy detection in cattle and buffaloes ([US12546787B2](https://patents.google.com/patent/US12546787B2)).
 
