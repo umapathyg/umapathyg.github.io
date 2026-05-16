@@ -36,6 +36,4 @@ CSIR-Centre for Cellular and Molecular Biology (CSIR-CCMB)
 Habsiguda, Uppal Road  
 Hyderabad – 500 007, Telangana, India  
 ✉ guma@ccmb.res.in
-After pasting — verify it before committing
-In the GitHub editor, look at the first 10 lines of what you just pasted. They MUST look like this:
 ---
