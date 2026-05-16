@@ -15,16 +15,15 @@ I am a **Chief Scientist** at the [CSIR–Centre for Cellular and Molecular Biol
 My research bridges molecular biology, endocrinology, and field ecology to support evidence-based wildlife conservation. Current themes include:
 
 - **Wildlife endocrinology and non-invasive hormone monitoring** — using faecal, urinary, and hair steroid measurements to assess stress, reproductive status, and fitness across wild populations of felids, bovids, rhinoceroses, and elephants.
-- **Assisted reproductive technologies (ARTs) for endangered species** — gamete cryopreservation, artificial insemination, and IVF for captive breeding programmes.
 - **Conservation genomics and population genetics** — phylogeography, kinship analysis, and adaptive variation in threatened taxa.
 - **Environmental DNA (eDNA) surveillance** — biodiversity assessment in terrestrial, freshwater, and marine systems, including the Eastern Ghats and the Andaman deep sea.
-- **One Health and wildlife disease surveillance** — wastewater-based epidemiology, zoonotic-disease monitoring, and antimicrobial resistance.
+- **One Health and wildlife disease surveillance** — wastewater-based epidemiology, zoonotic-disease monitoring, and environmental surveillance of MTB.
 
 ## Brief profile
 
-I have authored more than 100 SCI-indexed publications, including contributions in *Nature*, *Science*, and *Cell*. I am a Fellow of the National Academy of Sciences, India (**FNASc**), the Telangana Academy of Sciences (**FTASc**, elected 2018), and the Royal Entomological Society (**FRE**). 
+I have authored more than 100 SCI-indexed publications, including contributions in *Nature*, *Science*, and *Cell*. I am a Fellow of the National Academy of Sciences, India (**FNASc**), the Telangana Academy of Sciences (**FTASc**), and the Society for Reproductive Biology and Comparative Endocrinology (SRBCE) (**FRE**). 
 
-I am the inventor on a US patent for a paper-based lateral-flow device for non-invasive pregnancy detection in cattle and buffaloes ([US12546787B2](https://patents.google.com/patent/US12546787B2)).
+I am the inventor of a US patent for a paper-based lateral-flow device for non-invasive pregnancy detection in cattle and buffaloes ([US12546787B2](https://patents.google.com/patent/US12546787B2)).
 
 ## Mentoring
 
