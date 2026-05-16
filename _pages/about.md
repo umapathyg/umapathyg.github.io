@@ -3,12 +3,12 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-I am a **Chief Scientist** at the [CSIR–Centre for Cellular and Molecular Biology (CSIR-CCMB)](https://ccmb.res.in/), Hyderabad, where I work at **Laboratory for the Conservation of Endangered Species (LaCONES)**. LaCONES was established jointly by the Central Zoo Authority of India and the Department of Biotechnology as a national facility dedicated to the conservation of India's threatened wildlife.
+I am a **Chief Scientist** at the [CSIR–Centre for Cellular and Molecular Biology (CSIR-CCMB)](https://ccmb.res.in/), Hyderabad, where I work at the **Laboratory for the Conservation of Endangered Species (LaCONES)**. LaCONES was established jointly by the Central Zoo Authority of India and the Department of Biotechnology as a national facility dedicated to the conservation of India's threatened wildlife.
 
 ## Research interests
 
@@ -22,12 +22,13 @@ My research bridges molecular biology, endocrinology, and field ecology to suppo
 
 ## Brief profile
 
-I have authored more than 100 SCI-indexed publications, including contributions in *Nature*, *Science*, and *Cell*. I am a Fellow of the National Academy of Sciences, India (**FNASc**), the Telangana Academy of Sciences (**FTASc**), and the Society for Reproductive Biology and Comparative Endocrinology (**FRE**). 
-I am the inventor of a US patent for a paper-based lateral-flow device for non-invasive pregnancy detection in cattle and buffaloes ([US12546787B2](https://patents.google.com/patent/US12546787B2)).
+I have authored more than 100 SCI-indexed publications, including contributions in *Nature*, *Science*, and *Cell*. I am a Fellow of the National Academy of Sciences, India (**FNASc**), the Telangana Academy of Sciences (**FTASc**, elected 2018), and the Royal Entomological Society (**FRE**). I also serve in advisory roles for the National Tiger Conservation Authority (NTCA), the Ministry of Environment, Forest and Climate Change (MoEF&CC), and the Central Zoo Authority (CZA).
+
+I am the inventor on a US patent for a paper-based lateral-flow device for non-invasive pregnancy detection in cattle and buffaloes ([US12546787B2](https://patents.google.com/patent/US12546787B2)).
 
 ## Mentoring
 
-I mentor summer trainees, doctoral and postdoctoral researchers, and your scientists through the **CSIR-CCMB LaCONES and the Academy of Scientific and Innovative Research (AcSIR)**.
+I mentor doctoral and post-doctoral researchers through the **Academy of Scientific and Innovative Research (AcSIR)**. Prospective students interested in wildlife endocrinology, conservation genomics, or eDNA-based surveillance are welcome to write to me.
 
 ## Contact
 
@@ -35,3 +36,6 @@ CSIR-Centre for Cellular and Molecular Biology (CSIR-CCMB)
 Habsiguda, Uppal Road  
 Hyderabad – 500 007, Telangana, India  
 ✉ guma@ccmb.res.in
+After pasting — verify it before committing
+In the GitHub editor, look at the first 10 lines of what you just pasted. They MUST look like this:
+---
