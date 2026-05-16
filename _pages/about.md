@@ -28,7 +28,7 @@ I am the inventor on a US patent for a paper-based lateral-flow device for non-i
 
 ## Mentoring
 
-I mentor doctoral and post-doctoral researchers through the **Academy of Scientific and Innovative Research (AcSIR)**. Prospective students interested in wildlife endocrinology, conservation genomics, or eDNA-based surveillance are welcome to write to me.
+I mentor doctoral, post-doctoral, and young scientists through the CSIR-CCMB and **Academy of Scientific and Innovative Research (AcSIR)**. 
 
 ## Contact
 
