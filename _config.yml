@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default_dark"
+# site_theme               : "default_dark"
 title                    : "Dr. Govindhaswamy Umapathy"
 title_separator          : "|"
 name                     : "Dr. Govindhaswamy Umapathy"
